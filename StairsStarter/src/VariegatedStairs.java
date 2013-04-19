@@ -1,12 +1,6 @@
 import objectdraw.*;
 import java.awt.*;
 
-/**
- * A VariegatedStair is a rectangle, with recursively
- * smaller rectangles above and to the right of it.
- * In the limit this approximates a triangular stairway.
- */
-
 public class VariegatedStairs implements StairsInterface {
 
 	/** minimum width and height for a base square in order to build around it */

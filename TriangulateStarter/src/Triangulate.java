@@ -2,16 +2,6 @@ import java.awt.Color;
 
 import objectdraw.*;
 
-/**
- * Lab 7 (part I) - Triangulate
- * <p>
- * Recursively construct a triangle, which is made up of
- * sub-triangles, which are in turn ...
- * <p>
- * Suggested window size: 400x400
- *
- * @author YOUR-NAME-HERE, YOUR-LAB-SECTION-HERE
- */
 public class Triangulate extends WindowController {
 	// the three vertices of the doodled triangle
 	private static final Location vertex1 = new Location(50, 200);

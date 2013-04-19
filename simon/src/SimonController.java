@@ -1,17 +1,7 @@
 import objectdraw.*;
 import java.applet.AudioClip;
 
-/**
- * Lab 9 - Simon.
- * <P>
- * Simulate the the "Simon" toy, which generates increasingly long sequences of
- * colors (and corresponding sounds) which the player must remember and
- * reproduce.
- * <P>
- * Suggested window size: 250x250
- * 
- * @author YOUR-NAME-HERE, YOUR-LAB-SECTION-HERE
- */
+
 public class SimonController extends Controller implements NoisyButtonListener {
 	/** number of sounds, corresponding to the number of game buttons	*/
 	private static final int NUM_SOUNDS = 4; 

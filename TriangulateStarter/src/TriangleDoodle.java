@@ -1,6 +1,5 @@
 /**
  * Interface for TriangleDoodles
- * <br>
  * Defines the method(s) to be implemented by all TriangleDooldles
  */
 public interface TriangleDoodle {

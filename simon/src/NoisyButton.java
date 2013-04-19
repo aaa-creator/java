@@ -4,13 +4,6 @@ import java.awt.event.*;
 import java.applet.*;
 import javax.swing.*;
 
-/**
- * A Noisy Button is a GUI component designed for the implementation of the game
- * Simon. On the screen, a NoisyButton appears as a colored square. When the
- * user clicks on a NoisyButton, a "listener" is notifed by invoking its
- * "noisyButtonClicked" method. A "flash" method is provided which briefly
- * lightens the color of the button and makes a noise.
- */
 public class NoisyButton extends JPanel implements MouseListener {
 
 	/** size of a button square		*/

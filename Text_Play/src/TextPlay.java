@@ -9,7 +9,6 @@ import javax.swing.event.ChangeListener;
 /*
  * This program allows users to create text on the screen, change the font and size of the text and remove the text
  * Author: Daniel Cogan
- * Lab: CS51, Thursday
  */
 public class TextPlay extends WindowController implements ActionListener, ChangeListener{
 	

@@ -1,17 +1,6 @@
 import java.awt.*;
 import objectdraw.*;
 
-/**
- * Lab 7 (part II) - Stairs
- * <p>
- * Recursively construct a stairway, which is made up of
- * rectangles, surrounded by recursively smaller rectantles,
- * approximating a triangle.
- * <p>
- * Suggested window size: 400x400
- *
- * @author YOUR-NAME-HERE, YOUR-LAB-SECTION-HERE
- */
 public class StairController extends WindowController
 {
 	/** coordinates of the lower left corner of the variegated stairs	*/
